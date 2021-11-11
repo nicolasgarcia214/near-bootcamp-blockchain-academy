@@ -1,0 +1,15 @@
+{
+  "name": "nearbootcamp",
+  "version": "1.0.0",
+  "description": "Writting our first Smart Contract on Near Protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "asp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}

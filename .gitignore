@@ -1,0 +1,4 @@
+#Exclude node modules and build folder
+
+node_modules
+build
